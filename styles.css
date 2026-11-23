@@ -74,7 +74,7 @@ html.menu-open .menu{opacity:1;visibility:visible;transform:none}
 }
 
 /* hero */
-.hero{padding:52px 0 0;text-align:center}
+.hero{padding:52px 0 0;text-align:center;padding-bottom: 1rem;}
 .hero .lead{font-size:21px;line-height:1.38;color:var(--ink);max-width:520px;margin:16px auto 0}
 .hero-meta{font-size:14px;color:var(--mute);margin-top:22px}
 .hero-meta b{color:var(--ink);font-weight:600}
